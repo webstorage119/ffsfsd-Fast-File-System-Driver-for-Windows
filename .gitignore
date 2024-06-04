@@ -1,0 +1,11 @@
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.log
+*.tlog
