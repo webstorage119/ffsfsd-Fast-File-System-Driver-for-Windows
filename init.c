@@ -213,7 +213,7 @@ DriverEntry(
 #if FFS_UNLOAD
 	UNICODE_STRING              DosDeviceName;
 #endif
-
+#if 0
 	DbgPrint(
 			"ffsdrv --"
 			" Version " 
@@ -229,7 +229,7 @@ DriverEntry(
 			" - Built at "
 			__DATE__" "
 			__TIME__".\n");
-
+#endif
 	FFSPrint((DBG_FUNC, "FFS DriverEntry ...\n"));
 
 	RtlInitUnicodeString(&DeviceName, DEVICE_NAME);

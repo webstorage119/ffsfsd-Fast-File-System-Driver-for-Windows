@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\FFS]
+"ErrorControl"=dword:00000001
+"Group"="File System"
+"Start"=dword:00000003
+"Type"=dword:00000002

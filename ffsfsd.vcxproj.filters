@@ -94,28 +94,28 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bootblock.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="dinode.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="dir.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="disklabel.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ffsdrv.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="fs.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="type.h">
-      <Filter>Driver Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
